@@ -1,1 +1,1 @@
-# Frontend-Web-Development-Patikasi
+# Frontend-Web-Development-Patikasi Ödevleri 
